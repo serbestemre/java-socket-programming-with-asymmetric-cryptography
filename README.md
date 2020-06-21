@@ -32,4 +32,8 @@ Before these transformations, the program will ask the user to enter input value
 2. The shift amounts. A value from 1 to 3
 3. R for red, Y for yellow.
 
+# What can be improved? 
+
+Encryption and Decryption are done by hard coding in the current version of the application. It can be implemented as two separate methods.
+
 
